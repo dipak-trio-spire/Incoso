@@ -26,7 +26,7 @@ const page = () => {
             <div className="container">
                 <div className="analytics-wrapper">
                     <div className="com-title">
-                        <h2>Increasing Complexity in the Resource Market 123 </h2>
+                        <h2>Increasing Complexity in the Resource Market</h2>
                     </div>
                     <div className="unter-analy-box">
                         <ul>
